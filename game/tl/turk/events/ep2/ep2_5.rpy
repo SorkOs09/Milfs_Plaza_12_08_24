@@ -1,0 +1,76 @@
+﻿translate turk ep2_5_jay_bob_work_2_ff882ea0:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Думаю, какое-то время я ещё могу так поработать. "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Sanırım bir süre daha bu şekilde çalışmaya devam edebileceğim.'''
+
+
+
+translate turk ep2_5_jay_bob_work_2_86fb51b0:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Дождусь новостей от Игоря и тогда уж решу окончательно, валить из города, или принять свою участь и сдохнуть, как собака. "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Igor"dan haber bekleyeceğim ve sonra şehri terk etmeye ya da kaderime razı olup bir köpek gibi ölmeye karar vereceğim.'''
+
+
+
+
+
+
+

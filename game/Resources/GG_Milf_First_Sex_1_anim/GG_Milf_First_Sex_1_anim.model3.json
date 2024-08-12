@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "GG_Milf_First_Sex_1_anim.moc3",
+		"Textures": [
+			"GG_Milf_First_Sex_1_anim.4096/texture_00.png"
+		],
+		"Physics": "GG_Milf_First_Sex_1_anim.physics3.json",
+		"DisplayInfo": "GG_Milf_First_Sex_1_anim.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

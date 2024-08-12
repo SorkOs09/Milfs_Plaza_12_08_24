@@ -1,0 +1,76 @@
+﻿translate turk ep2_1_door_45481a8e:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # '[gg]' "Хм… Дверь заперта, и ключей нигде нет."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Hmm... Kapı kilitli ve etrafta hiç anahtar göremiyorum.'''
+
+
+
+translate turk ep2_1_door_4913e9fd:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # '[gg]' "Нужно спросить об этом Марину."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Mary"e bunun hakkında bir danışsam iyi olur.'''
+
+
+
+
+
+
+

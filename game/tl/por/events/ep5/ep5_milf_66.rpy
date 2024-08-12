@@ -1,0 +1,100 @@
+translate por ep5_milf_66_9c1084be:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Отлично!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Ha-ha-ha!'''
+
+
+
+translate por ep5_milf_66_60baa72c:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Кэт должна быть в восторге!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''A Kat deve estar muito satisfeita!'''
+
+
+
+translate por ep5_milf_66_4b765a26:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Хе-хе-ха!"
+
+
+
+
+
+
+
+    "[gg]" '''Ha-ha-ha!'''
+
+
+

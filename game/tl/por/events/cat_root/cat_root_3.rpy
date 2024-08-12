@@ -1,0 +1,72 @@
+﻿translate por cat_root_3_1_1aa9d4ba:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Отлично, теперь я могу заделался «частным сыщиком» и устраивать настоящие слежки."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Ótimo, agora eu posso fingir ser um "detetive particular" de verdade, e espionar as pessoas.'''
+
+
+
+translate por cat_root_3_1_da149e35:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Мне лишь нужно дождаться, пока Кэт будет выходить из дома поздно вечером и проследить за ней."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Eu só preciso esperar a Kat sair da casa de noite, e seguir ela.'''
+
+
+

@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Bar_Tualet_5_anim.moc3",
+		"Textures": [
+			"Bar_Tualet_5_anim.2048/texture_00.png"
+		],
+		"Physics": "Bar_Tualet_5_anim.physics3.json",
+		"DisplayInfo": "Bar_Tualet_5_anim.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

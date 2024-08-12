@@ -1,0 +1,36 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "Bodymove"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "boob_phys"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "M_move"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "Dmove"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "women",
+			"Name": "women"
+		},
+		{
+			"Id": "man",
+			"Name": "man"
+		}
+	]
+}

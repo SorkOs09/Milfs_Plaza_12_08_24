@@ -1,0 +1,72 @@
+translate germ ep5_milf_65_2_33186785:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Вот и всё."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Das war"s.'''
+
+
+
+translate germ ep5_milf_65_2_4f3342b8:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Теперь я смогу избавиться от офицера полиции и отправиться освобождать Игоря."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Jetzt kann ich den Bullen von meiner Fährte abbringen daran arbeiten Igor zu befreien.'''
+
+
+

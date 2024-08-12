@@ -1,0 +1,13 @@
+*.psd
+*.mov
+*.zip
+*.rar
+*.rpyc
+*.bak
+*.db
+
+/errors.txt
+/log.txt
+/traceback.txt
+/game/cache/
+/game/saves/

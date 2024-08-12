@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "New_Costume_Milf_2_anim.moc3",
+		"Textures": [
+			"New_Costume_Milf_2_anim.4096/texture_00.png"
+		],
+		"Physics": "New_Costume_Milf_2_anim.physics3.json",
+		"DisplayInfo": "New_Costume_Milf_2_anim.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

@@ -1,0 +1,72 @@
+﻿translate turk cat_root_3_1_1aa9d4ba:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Отлично, теперь я могу заделался «частным сыщиком» и устраивать настоящие слежки."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Harika, artık gerçek bir "özel dedektif" gibi davranıp insanları gözetleyebilirim.'''
+
+
+
+translate turk cat_root_3_1_da149e35:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Мне лишь нужно дождаться, пока Кэт будет выходить из дома поздно вечером и проследить за ней."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Kat"in gece geç saatte evden çıkmasını bekleyip onu takip etmeliyim.'''
+
+
+

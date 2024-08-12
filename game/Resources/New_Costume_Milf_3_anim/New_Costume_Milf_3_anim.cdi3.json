@@ -1,0 +1,37 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "wbody"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "m_move"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "d_muv"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "bobs"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "posx"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Folder13",
+			"Name": "Folder13"
+		}
+	]
+}

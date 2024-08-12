@@ -1,0 +1,72 @@
+﻿translate french cat_root_3_1_1aa9d4ba:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Отлично, теперь я могу заделался «частным сыщиком» и устраивать настоящие слежки."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Génial, maintenant je peux me faire passer pour un véritable « détective privé » et espionner les gens.'''
+
+
+
+translate french cat_root_3_1_da149e35:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Мне лишь нужно дождаться, пока Кэт будет выходить из дома поздно вечером и проследить за ней."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''J"ai juste besoin d"attendre que Kat quitte la maison pendans la nuit et la suivre.'''
+
+
+

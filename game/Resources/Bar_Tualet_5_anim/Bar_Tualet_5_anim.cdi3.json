@@ -1,0 +1,59 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "Man"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "React"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "Emot"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "Boobs"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "hair"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "Wave1"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "Wave2"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "GG_For_Sex_Tualet_GOLOVA.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "man Copy"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Girl Copy"
+		},
+		{
+			"Id": "Head",
+			"Name": "Head"
+		}
+	]
+}

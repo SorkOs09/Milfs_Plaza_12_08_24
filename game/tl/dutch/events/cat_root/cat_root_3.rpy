@@ -1,0 +1,72 @@
+﻿translate dutch cat_root_3_1_1aa9d4ba:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Отлично, теперь я могу заделался «частным сыщиком» и устраивать настоящие слежки."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Geweldig, nu kan ik doen alsof ik een echte "privédetective" ben en mensen bespioneren.'''
+
+
+
+translate dutch cat_root_3_1_da149e35:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # "[gg]" "Мне лишь нужно дождаться, пока Кэт будет выходить из дома поздно вечером и проследить за ней."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "[gg]" '''Ik hoef alleen maar te wachten tot Kat "s avonds laat het huis verlaat en haar te volgen.'''
+
+
+
