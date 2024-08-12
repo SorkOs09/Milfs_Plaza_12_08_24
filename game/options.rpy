@@ -2,12 +2,6 @@
 
 
 
-
-DSDFDFDF
-
-
-
-
 image shadow_up   = Crop((0,0,1920,300), 'interface/shadow.png')    
 
 image shadow_down = Crop((0,780,1920,300), 'interface/shadow.png')
